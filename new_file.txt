@@ -1,1 +1,2 @@
 Changing the master branch
+Changes made to master branch
